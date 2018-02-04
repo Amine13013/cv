@@ -75,21 +75,17 @@ font-size:16px;
 h1{ 
 color: #8B0000; 
 text-align: center;
-margin-top: 0px;
-font-weight: bold; 
-text-decoration: underline; 
-width:430px; 
-margin:auto; 
+
 } 
 h3{
 	
 color: Black; 
 text-align: left;
-margin-top: 0px;
+margin-top: 15px;
 font-weight: bold; 
 width:430px; 
 margin:auto; 
-font-size: xx-large;
+font-size: x-large;
 }
 
 .titre{

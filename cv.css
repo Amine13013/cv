@@ -1,0 +1,124 @@
+.page{
+
+
+width:1200px;
+margin:auto;
+font-size:16px;
+font-family:'Source sans Pro',Calibri,Tahoma,sans-serif;
+padding:40px;
+border: 5px solid #610d0d;
+border-radius:10px;
+box-shadow: 2px 3px 4px ;
+background-color:#FFFFFF;
+
+	
+}
+.Informationsphoto{
+
+height:250px;
+	
+}
+
+.information{
+
+float:left;
+
+}
+
+
+.Photo{
+
+float:right;
+
+}	
+
+
+.Section{
+
+margin-bottom:70px;
+text-align:justify;
+
+}
+.Sec-G{
+
+float:left;
+font-weight:bold;
+font-size:20px;
+	
+}
+
+
+
+
+.Sec-D{
+
+margin-left:150px;
+margin-top:37px;
+
+}
+
+h2{
+font-size:28px;
+color:#8B0000;
+text-transform:uppercase;
+border-bottom:3px solid #8B0000;
+
+
+}
+
+.duree{
+font-weight:normal;
+font-style:italic;
+font-size:16px;
+	
+}
+h1{ 
+color: #8B0000; 
+text-align: center;
+margin-top: 0px;
+font-weight: bold; 
+text-decoration: underline; 
+width:430px; 
+margin:auto; 
+} 
+h3{
+	
+color: Black; 
+text-align: left;
+margin-top: 0px;
+font-weight: bold; 
+width:430px; 
+margin:auto; 
+font-size: xx-large;
+}
+
+.titre{
+font-weight: bold;	
+font-size: 20px;
+}
+
+#Position-G p{
+margin-bottom:37px;	
+
+	
+}
+
+#Expression-G p{
+margin-top: 32px;
+}
+
+#Expression-G1 p{
+margin-top: 32px;
+margin-bottom:30px;
+
+}
+
+
+body{
+
+background-color:#CCCCCC;	
+}
+#Expression-GC p{
+margin-top: 10px;
+margin-bottom:35px;	
+}
